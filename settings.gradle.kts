@@ -15,3 +15,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "Recoreon"
 include(":app")
+ 
